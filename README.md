@@ -22,3 +22,6 @@ My work in the Quant Challenge 2025 securing global Rank 3, organized in collabo
 
  Competition page:
  https://quantchallenge.org/
+
+ Dataset:
+ https://www.kaggle.com/datasets/vamshikrishnaemmadi/quant-challenge-2025-five-rings-dataset
