@@ -16,3 +16,9 @@ My work in the Quant Challenge 2025 securing global Rank 3, organized in collabo
  
  QR_Extensive_manual_tuning.ipynb, Part2_of_Final_Submission.ipynb:
  5)We performed manual tuning on the parameters given by the grid search to further improve the performance, so we introduced L1 and L2 regularization here to get the best parameters without overfitting on the train data, we never did a 80/20 split for validation since it only generalizes the model parameters to 20% of the train data and may over fit on it, we instead used 3-cross validation score to not overfit the model on any part of the train set.
+
+ Leaderboard:
+ https://quantchallenge.org/dashboard/data/leaderboard
+
+ Competition page:
+ https://quantchallenge.org/
