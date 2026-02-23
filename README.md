@@ -19,7 +19,7 @@ My work in the Quant Challenge 2025 securing global Rank 3, organized in collabo
 
  Leaderboard:
  https://quantchallenge.org/dashboard/data/leaderboard
-
+ Team name : Quant Ent ( Rank 3 in Quantitative Research track )
  Competition page:
  https://quantchallenge.org/
 
